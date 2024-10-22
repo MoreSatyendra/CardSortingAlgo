@@ -2,7 +2,10 @@
 
 A React-based web application that provides an interactive visualization of the bubble sort algorithm. Watch in real-time as the algorithm sorts numbers with smooth animations and color transitions.
 
-![Sorting Visualization Demo](./public/demo-placeholder.png)
+## Sorting Visualization Demo
+
+https://github.com/user-attachments/assets/bfc27b09-978a-444e-8696-09edce1d2963
+
 
 ## 🚀 Features
 
@@ -25,7 +28,7 @@ A React-based web application that provides an interactive visualization of the 
 1. Clone the repository:
 ```bash
 git clone https://github.com/MoreSatyendra/CardSortingAlgo.git
-cd sorting-visualization
+cd CardSortingAlgo
 ```
 
 2. Install dependencies:
